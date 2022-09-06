@@ -1,2 +1,4 @@
 # Predicting-House-Prices-with-Random-Forest
-Here is a guide on how to predict house prices using random forest, this is based out of a webinar with my personal annotatiosns.
+THis is a guide on how to predict house prices using random forest, based off Data Quest webinar.
+
+Link to Webinar: https://www.youtube.com/watch?v=IsoW7_X3j5A
